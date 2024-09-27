@@ -1,0 +1,1899 @@
+fileFormatVersion: 2
+guid: 404aca2cf16140d46889ab4ed61c5c14
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5056543395677078547
+    second: xeonsheet_0
+  - first:
+      213: -4259354950119962744
+    second: xeonsheet_1
+  - first:
+      213: 2306385811194634109
+    second: xeonsheet_2
+  - first:
+      213: -4444411309317236374
+    second: xeonsheet_3
+  - first:
+      213: 7251879425774657364
+    second: xeonsheet_4
+  - first:
+      213: 6684611383159578179
+    second: xeonsheet_5
+  - first:
+      213: 1034040939125262217
+    second: xeonsheet_6
+  - first:
+      213: -2693396453939817203
+    second: xeonsheet_7
+  - first:
+      213: -4229697610233660813
+    second: xeonsheet_8
+  - first:
+      213: -1778050358226321327
+    second: xeonsheet_9
+  - first:
+      213: 6739569152289330972
+    second: xeonsheet_10
+  - first:
+      213: 4194241837411744110
+    second: xeonsheet_11
+  - first:
+      213: 5581286533717236251
+    second: xeonsheet_12
+  - first:
+      213: -6524218547955742502
+    second: xeonsheet_13
+  - first:
+      213: 4972416749011671253
+    second: xeonsheet_14
+  - first:
+      213: -7579050832861529037
+    second: xeonsheet_15
+  - first:
+      213: -7414466299000190349
+    second: xeonsheet_16
+  - first:
+      213: 5733711772375650643
+    second: xeonsheet_17
+  - first:
+      213: -1207430518675846819
+    second: xeonsheet_18
+  - first:
+      213: -1372402290555004769
+    second: xeonsheet_19
+  - first:
+      213: -3096295284191356409
+    second: xeonsheet_20
+  - first:
+      213: -5177611410488739026
+    second: xeonsheet_21
+  - first:
+      213: 8868564055018414265
+    second: xeonsheet_22
+  - first:
+      213: -412780276446651725
+    second: xeonsheet_23
+  - first:
+      213: 5905094341961531845
+    second: xeonsheet_24
+  - first:
+      213: -423488224591634122
+    second: xeonsheet_25
+  - first:
+      213: 89944506823941301
+    second: xeonsheet_26
+  - first:
+      213: -3831747669075379059
+    second: xeonsheet_27
+  - first:
+      213: -826359932756977535
+    second: xeonsheet_28
+  - first:
+      213: 5811137027406802093
+    second: xeonsheet_29
+  - first:
+      213: -1825865530283492584
+    second: xeonsheet_30
+  - first:
+      213: -2937992801479403515
+    second: xeonsheet_31
+  - first:
+      213: 1056120153717401583
+    second: xeonsheet_32
+  - first:
+      213: -5638998719478219614
+    second: xeonsheet_33
+  - first:
+      213: 1720857762041501117
+    second: xeonsheet_34
+  - first:
+      213: -1456268049887250720
+    second: xeonsheet_35
+  - first:
+      213: -5984779684289058397
+    second: xeonsheet_36
+  - first:
+      213: 4490614315575069329
+    second: xeonsheet_37
+  - first:
+      213: 1732503472518111228
+    second: xeonsheet_38
+  - first:
+      213: 3826057849239099952
+    second: xeonsheet_39
+  - first:
+      213: -7187333739328170560
+    second: xeonsheet_40
+  - first:
+      213: 4266322816516698139
+    second: xeonsheet_41
+  - first:
+      213: -2441413655026878532
+    second: xeonsheet_42
+  - first:
+      213: -4542269194365158405
+    second: xeonsheet_43
+  - first:
+      213: 3742425322621302276
+    second: xeonsheet_44
+  - first:
+      213: -3901236251248188878
+    second: xeonsheet_45
+  - first:
+      213: 8486754758392907966
+    second: xeonsheet_46
+  - first:
+      213: -7967180880925816093
+    second: xeonsheet_47
+  - first:
+      213: 2811900411859281838
+    second: xeonsheet_48
+  - first:
+      213: 3608546751825835118
+    second: xeonsheet_49
+  - first:
+      213: 5034097920699270759
+    second: xeonsheet_50
+  - first:
+      213: 6174157073584320675
+    second: xeonsheet_51
+  - first:
+      213: -4682113175625159202
+    second: xeonsheet_52
+  - first:
+      213: 5550348865117012740
+    second: xeonsheet_53
+  - first:
+      213: 6147289199855147172
+    second: xeonsheet_54
+  - first:
+      213: 1624905162539020757
+    second: xeonsheet_55
+  - first:
+      213: -549623526887699638
+    second: xeonsheet_56
+  - first:
+      213: 7876625783528268545
+    second: xeonsheet_57
+  - first:
+      213: -3302961696359206575
+    second: xeonsheet_58
+  - first:
+      213: -320884527948437805
+    second: xeonsheet_59
+  - first:
+      213: -7653174695592567473
+    second: xeonsheet_60
+  - first:
+      213: -4690856557162555920
+    second: xeonsheet_61
+  - first:
+      213: 2139458425208328883
+    second: xeonsheet_62
+  - first:
+      213: -7551030984834353419
+    second: xeonsheet_63
+  - first:
+      213: 1825819072724109853
+    second: xeonsheet_64
+  - first:
+      213: 4862087984082124032
+    second: xeonsheet_65
+  - first:
+      213: 4768217882508980134
+    second: xeonsheet_66
+  - first:
+      213: 2510416981438100314
+    second: xeonsheet_67
+  - first:
+      213: 8403623303333045700
+    second: xeonsheet_68
+  - first:
+      213: -8180033366767450530
+    second: xeonsheet_69
+  - first:
+      213: 6141488830673610873
+    second: xeonsheet_70
+  - first:
+      213: -6274815074824715580
+    second: xeonsheet_71
+  - first:
+      213: -3537610532322174120
+    second: xeonsheet_72
+  - first:
+      213: 3032677370117200078
+    second: xeonsheet_73
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: xeonsheet_0
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 759
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458f2978b7f03dd41806f8b124ddbf0d
+      internalID: -5056543395677078547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_1
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 761
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988dcfbaa39d3114999b3ffb620e13d1
+      internalID: -4259354950119962744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_2
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 755
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7068c4a8835c843913f4fe2f88ce6e
+      internalID: 2306385811194634109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_3
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 753
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea47ed6e23473a47af43427e55df222
+      internalID: -4444411309317236374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_4
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 751
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44d13b757edc4242b10013b6fe3bfc3
+      internalID: 7251879425774657364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_5
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 754
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665625f82d076a0458b8a45182ebdf49
+      internalID: 6684611383159578179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_6
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 679
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3539b9cc092e74fbdbacb6e1fe5e82
+      internalID: 1034040939125262217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_7
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 679
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7259e749f2b50e544b5fa80bf1bf1fab
+      internalID: -2693396453939817203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_8
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 677
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a279a83520922c64e8b3d03fb0642ede
+      internalID: -4229697610233660813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_9
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 672
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fc752489790b64facaf901d3c6d794
+      internalID: -1778050358226321327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_10
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 673
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f27ddce19f78c34e8ef8548dde872d1
+      internalID: 6739569152289330972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_11
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 668
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704189c1f68f42b448abc10f17783ec0
+      internalID: 4194241837411744110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_12
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 668
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faaf748579279b64d9bf390161e8877a
+      internalID: 5581286533717236251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_13
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 668
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014d94bebdbba5b409287ab312696d95
+      internalID: -6524218547955742502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 602
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e44fa29753fcf7419b52f79c3bd9d24
+      internalID: 4972416749011671253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_15
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 598
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04860240f05f52943b6a05cb38f9bf81
+      internalID: -7579050832861529037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 596
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff1c5c03df3ec24d9c27d61b927baf5
+      internalID: -7414466299000190349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_17
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 591
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef591daa02c62748859cdadd8f690b0
+      internalID: 5733711772375650643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_18
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 589
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd733a8b78ee23b4ebda30c5856429e5
+      internalID: -1207430518675846819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_19
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 589
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe074ce2bcb06646947e436b8cfcda6
+      internalID: -1372402290555004769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_20
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 589
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1d6253a90f9b843ba08df82f6136f3
+      internalID: -3096295284191356409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_21
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 590
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa53a106ee596d4c9a9d3743a13e611
+      internalID: -5177611410488739026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_22
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 515
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251c02525917cc049b802dd95f9d5683
+      internalID: 8868564055018414265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_23
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 517
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455610e85397b354f89ee8f44f3bc8f8
+      internalID: -412780276446651725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_24
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 518
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6b3c9c7231e1e4ab911a5e9ab6cde5
+      internalID: 5905094341961531845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_25
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 514
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f203845bc4ac543b2cadcea9372493
+      internalID: -423488224591634122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_26
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 522
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a17362ebcdaf87488601f913b7ce3b2
+      internalID: 89944506823941301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_27
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 514
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38fba7df588401408ae45897972add1
+      internalID: -3831747669075379059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_28
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 513
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0043cd05c94934499c54a15b97cb9e2
+      internalID: -826359932756977535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_29
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 399
+        width: 43
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0e0ff97b465b7449cd596e649fb4d3
+      internalID: 5811137027406802093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_30
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 386
+        width: 41
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8584cdee8283db542919eade853bca41
+      internalID: -1825865530283492584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_31
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 386
+        width: 40
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dedded20927ae4498720488c758cbc
+      internalID: -2937992801479403515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_32
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 399
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc3155224f32824aad4c857975da9af
+      internalID: 1056120153717401583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_33
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 397
+        width: 40
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3545caaf08048b84fb6d4528e3e7ad54
+      internalID: -5638998719478219614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_34
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 394
+        width: 40
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d925f081d92482a4bbf56156ce5baff5
+      internalID: 1720857762041501117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_35
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 395
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f208de41944c54e83f6029d0a8deca
+      internalID: -1456268049887250720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_36
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 391
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedf22de08d0a0b44bb7e678d0f23102
+      internalID: -5984779684289058397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_37
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 273
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7e151dcea8c3a4c979737f600de8c4
+      internalID: 4490614315575069329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_38
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 272
+        width: 40
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a198c42f236704a42a444f719559b8fb
+      internalID: 1732503472518111228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_39
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 282
+        width: 40
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2467cbe0fa635bd4c865dacedba3dc2d
+      internalID: 3826057849239099952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_40
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 289
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cac2767009ba644be7dcbdcd307841
+      internalID: -7187333739328170560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_41
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 287
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce81ca3e6a92c84e92bc309236c7f20
+      internalID: 4266322816516698139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_42
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 281
+        width: 40
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdae88974e2596d428445646783e42f5
+      internalID: -2441413655026878532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_43
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 274
+        width: 40
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfa447a2a536014881750b9997f06b0
+      internalID: -4542269194365158405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_44
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 275
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c81a8848e0cf042955b1b74376a132
+      internalID: 3742425322621302276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_45
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 174
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea6dd5a9c235774b9765cae2c06fff4
+      internalID: -3901236251248188878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_46
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 214
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92f5be36994afb42aa9ee7b64ddf1c8
+      internalID: 8486754758392907966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_47
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 214
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d85e985b3db99428445ea076b2356b
+      internalID: -7967180880925816093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_48
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 214
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b25e1e0ded9b9140ae8c60b11b777c7
+      internalID: 2811900411859281838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_49
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 214
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc99350464d1b0499071154188033f4
+      internalID: 3608546751825835118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_50
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 214
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef6265018f4c7e4298dbd1a11e35f2e
+      internalID: 5034097920699270759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_51
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 180
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c40c934a5c5bc428e791dcbd0ad051
+      internalID: 6174157073584320675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_52
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 179
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd655a23f807da740978270c95510d78
+      internalID: -4682113175625159202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_53
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 180
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e581e6b681d734eb97baad9d115568
+      internalID: 5550348865117012740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_54
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 179
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b060fe78c184b3d4b90c2a6e4ae71a37
+      internalID: 6147289199855147172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_55
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 112
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a7c8d33ad8a1d4585038dd13535d9f
+      internalID: 1624905162539020757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_56
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 112
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f5fa6b445d3eb4e935a59d62918434
+      internalID: -549623526887699638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_57
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 113
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb65bbd804c58384ea3150d2f6412d93
+      internalID: 7876625783528268545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_58
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 113
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c51c95fc5faa24882c24d70a6757c3
+      internalID: -3302961696359206575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_59
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 127
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da1ee01740956d4981166abcbcd9f20
+      internalID: -320884527948437805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_60
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 127
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec72156cd81fd7d46bc5046c2dd35e41
+      internalID: -7653174695592567473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_61
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 126
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54c69ae6f4880b459ffef54b78176f6
+      internalID: -4690856557162555920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_62
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 124
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7225c75c12432846936c3aaeb465996
+      internalID: 2139458425208328883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_63
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 97
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d9c6be946450a4e923cf0b0c3090ef
+      internalID: -7551030984834353419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_64
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 96
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca7f2f33a3dc0246a684e341eaeffd7
+      internalID: 1825819072724109853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_65
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 96
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae6ac824f153d3498290ed5b297af30
+      internalID: 4862087984082124032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_66
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 97
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3284a0b6351707344ae709757f0d82cb
+      internalID: 4768217882508980134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_67
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 96
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e354d54000caf7944b0099e0d148a6d3
+      internalID: 2510416981438100314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_68
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 108
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c0c5e62f6c34a47b8fc096b5c582ea
+      internalID: 8403623303333045700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_69
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 108
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0d173407ae9f14aa32f91f9f2afed3
+      internalID: -8180033366767450530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_70
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 108
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d325ce8446503264596d514ef48e1261
+      internalID: 6141488830673610873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_71
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 106
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00dc2dc99fee1eb4ea5c9bbe225914de
+      internalID: -6274815074824715580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_72
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 6
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d47767b3712e8b4a8563f5998d68a96
+      internalID: -3537610532322174120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_73
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 6
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bc1c5d453988444a4b70148d76e869
+      internalID: 3032677370117200078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d350e8632f8f6ad4eb8c9b15907408fb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
