@@ -1,1 +1,1 @@
-Aurora Unity Build 2020
+Aurora - Created in Unity using C#
